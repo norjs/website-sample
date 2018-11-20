@@ -1,0 +1,13 @@
+title: NorJS
+github:
+   repository_url: /purchase.html
+show_downloads: false
+theme: jekyll-theme-slate
+plugins:
+  - jekyll-feed
+seo: {{ feed_meta }}
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+google_analytics: UA-127343190-1

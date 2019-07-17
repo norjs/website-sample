@@ -1,0 +1,24 @@
+{
+  "name": "norjs-website-sample",
+  "version": "1.0.0",
+  "description": "jekyll/github pages website sample",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "install": "gem install --user-install bundler jekyll jekyll-feed",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "jekyll serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/norjs/website-sample.git"
+  },
+  "author": "",
+  "license": "Commercial",
+  "bugs": {
+    "url": "https://github.com/norjs/website-sample/issues"
+  },
+  "homepage": "https://github.com/norjs/website-sample#readme"
+}

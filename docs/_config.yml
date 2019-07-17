@@ -10,4 +10,3 @@ markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
-google_analytics: UA-127343190-1
